@@ -1,2 +1,3 @@
-# hello-react1
+# LABORATORIOS PRACTICOS CON REACT
 Laboratorios prácticos para aprender react desde cero
+    
